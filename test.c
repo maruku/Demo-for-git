@@ -1,5 +1,6 @@
 int test()
 {
+        printf("test");
 	return 1234;
 }
 
