@@ -1,6 +1,7 @@
 int test()
 {
 	return 1234;
+	// this is demo
 }
 
 int _tmain(int argc, _TCHAR* argv[])
