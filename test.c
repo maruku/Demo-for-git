@@ -13,3 +13,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 }
 
+void another_function()
+{
+
+}
